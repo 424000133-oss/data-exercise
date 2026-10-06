@@ -1,0 +1,8 @@
+Player name: Andrey
+Number of wins: 8
+Points per win: 12.5
+Bonus points: 15
+Points from wins: 100
+Total gaming points: 115
+Reached 100 points? true
+Remaining points after groups of 10: 5
